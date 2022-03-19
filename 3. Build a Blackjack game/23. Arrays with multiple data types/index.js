@@ -2,3 +2,8 @@
 
 // Create an array that describes yourself. Use the three primitive data types you've learned
 // It should contain your name (string), your age (number), and whether you like pizza (boolean)
+
+let myName = "sami"
+let myAge = 32
+let likePizza = true
+let myBio = [myName, myAge, likePizza]
